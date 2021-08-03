@@ -3,6 +3,7 @@ from user import User
 from user import Credentials
 import pyperclip
 
+
 class TestUser(unittest.TestCase):
     """
     Test class that defines test cases for the Users class behaviours.
@@ -101,4 +102,4 @@ class TestCredentials(unittest.TestCase):
   
 
 if __name__ == "__main__":
-    unittest.main()    
+    unittest.main() 
