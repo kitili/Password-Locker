@@ -1,4 +1,4 @@
-import pyperclip
+# import pyperclip
 import random
 import string
 
@@ -24,7 +24,7 @@ class User:
         """
         method that allows a user to log in after providing credentials
         """
-        print("You have Successfully Logged in!!")
+        print("You have Successfully Logged in!!!")
 
     def saveUser(self):
         """
@@ -56,7 +56,7 @@ class Credentials():
 
     def __init__(self, account, username, password):
         """
-        crede
+        credentials
         """
         self.account = account
         self.username = username
@@ -147,10 +147,10 @@ if __name__ == "__main__":
 
             while True:
                 print(
-                    "1. tp - Type your own password\n 2. gp - generate password from system")
+                    "1. tyop - Type your own password\n 2. gp - generate password from system")
                 password = input()
 
-                if password == 'tp':
+                if password == 'tyop':
                     print("Enter your Password:")
                     password = input()
                     break
