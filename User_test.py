@@ -69,7 +69,7 @@ class TestCredentials(unittest.TestCase):
         """
         self.assertEqual(self.cred.account, "Instagram")
         self.assertEqual(self.cred.username, "@love_kiki")
-        self.assertEqual(self.cred.password, "tlo")
+        self.assertEqual(self.cred.password, "ily")
 
     def tearDown(list):
         """
