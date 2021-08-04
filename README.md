@@ -27,10 +27,10 @@ In order to use the website you need to install:
 ### Installation
 In order to use the file locally:
 1. Create a github account [https://github.com/](https://github.com/)
-2. Open  https://github.com/Mourine-Kitili/accountmanagement.git.
+2. Open  https://github.com/Mourine-Kitili/password-locker.git.
 3. Clone the repo
 ```sh
-git clone Open  https://github.com/Mourine-Kitili/accountmanagement.git
+git clone Open  https://github.com/Mourine-Kitili/password-locker.git
 ```
 4. git pull origin master
 
