@@ -82,7 +82,7 @@ class TestCredentials(unittest.TestCase):
         test for multiple credentials
         """
         self.cred.saveCredential()
-        test_cred = Credentials("Instagram", "@love_kiki", "tlo") 
+        test_cred = Credentials("Instagram", "@love_kiki", "ily") 
         test_cred.saveCredential()
 
         self.assertEqual(len(Credentials.credentials), 2)
