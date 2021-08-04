@@ -212,7 +212,7 @@ if __name__ == "__main__":
 
                 password = input().lower()
 
-                if password == 'tp':
+                if password == 'tyop':
                     print("Type Account Password :")
                     password = input()
                     break
