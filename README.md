@@ -38,7 +38,7 @@ git clone Open  https://github.com/Mourine-Kitili/password-locker.git
 This website can be used as a source of information and you can even post your stories.
 
 ## Roadmap
-See the [open issues](https://github.com/Mourine-Kitili/password-locker/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Kitili/password-locker/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are
