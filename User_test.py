@@ -93,7 +93,7 @@ class TestCredentials(unittest.TestCase):
         
         """
         self.cred.saveCredential()
-        test_cred = Credentials("Instagram", "@love_kiki", "tlo") 
+        test_cred = Credentials("Instagram", "@love_kiki", "ily") 
         test_cred.saveCredential()
 
         self.cred.deleteCredential()
